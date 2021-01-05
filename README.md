@@ -2,8 +2,9 @@
 
 *@lyonhuang/react-scrollspy use React Hook which requires React 16.8.0 or later.*
 
+```
 npm i @lyonhuang/react-scrollspy
-
+```
 
 ## Usage
 
