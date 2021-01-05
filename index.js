@@ -1,5 +1,5 @@
 import React from 'react'
-import useActiveSection from './useActiveSection'
+import useActiveSection from './src/useActiveSection'
 
 const ReactScrollSpy = ((props) => {
 
